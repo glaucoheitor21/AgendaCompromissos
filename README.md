@@ -47,12 +47,3 @@ Este é um aplicativo de agenda de compromissos desenvolvido em C# (.NET 8, C# 1
 - Pacific/Auckland
 
 > **Observação:** Os IDs de timezone são mapeados para os reconhecidos pelo sistema operacional Windows. Caso utilize outro sistema operacional, pode ser necessário ajustar os IDs no código.
-
-## Pré-requisitos
-
-- .NET 8 SDK instalado
-- Visual Studio 2022 ou superior (opcional, mas recomendado)
-
-## Como executar
-
-No terminal, navegue até a pasta do projeto e execute:
